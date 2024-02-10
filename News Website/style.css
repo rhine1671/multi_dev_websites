@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.homepage-text-1{
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 20px;
+}
+
+.navbar-nav li a{
+   font-size: 20px;
+}
+
+footer{
+    margin-top: 100px;
+
+    background-color: #5bc0de;
+   
+}
+
+.list-inline-item img{
+    height: 32px;
+}
+
+.foot-title img{
+
+    height: 60px;
+}
+
+.font-large a{
+    text-decoration: none;
+}
+.list-unstyled a{
+    text-decoration: none;
+    color: black;
+}
+
+.card{
+    border: none!important;
+}
+
+.card-title:hover{
+    color: #5bc0de!important;
+    cursor: pointer!important;
+    text-decoration: none;
+}
+.card-body-title{
+    text-decoration: none;
+}
+
+.card-title{
+    text-decoration: none;
+}
+
+.card-author{
+    margin-top: 10px;
+}
+.news-body{
+    margin-top: 3rem;
+}
